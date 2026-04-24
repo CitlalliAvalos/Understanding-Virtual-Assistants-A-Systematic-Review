@@ -1,6 +1,7 @@
 # Understanding-Virtual-Assistants-A-Systematic-Review
 Supplementary dataset of the article "Understanding Virtual Assistants: A Systematic Review". This repository contains the included studies, extracted text fragments, source references, analytical interpretations, and the coding of reported limitations and challenges.
 The dataset is based on 34 review studies published between 2015 and 2025.
+
 ## Dataset Structure
 
 The dataset is organized into four sheets within a single Excel file:
@@ -75,4 +76,7 @@ This dataset is provided to:
 
 ## Citation
 This dataset is licensed under [CC BY 4.0](https://creativecommons.org).
-If you use this data, please cite the corresponding article:
+This dataset is associated with an article currently under review:
+Avalos Montiel, C. S., Rodríguez García, J. G., & Mendoza, S.  
+*Understanding Virtual Assistants: A Systematic Review* (under review)
+If you use this data, please cite.
