@@ -18,8 +18,6 @@ This sheet contains the primary data extracted from the included studies. It inc
 - `Location of the text within the source article`: Section or position in the original document  
 - `Cross Reference`  
 
-This sheet represents the raw evidence used in the analysis.
-
 ---
 
 ### 2. Challenges Coding
