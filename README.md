@@ -1,6 +1,6 @@
 # Understanding-Virtual-Assistants-A-Systematic-Review
-Supplementary dataset of the article "Understanding Virtual Assistants: A Systematic Review". This repository contains the 34 included studies, extracted text fragments, source references, analytical interpretations, and the coding of the reported limitations and challenges.
-
+Supplementary dataset of the article "Understanding Virtual Assistants: A Systematic Review". This repository contains the included studies, extracted text fragments, source references, analytical interpretations, and the coding of reported limitations and challenges.
+The dataset is based on 34 review studies published between 2015 and 2025.
 ## Dataset Structure
 
 The dataset is organized into four sheets within a single Excel file:
@@ -9,7 +9,7 @@ The dataset is organized into four sheets within a single Excel file:
 
 This sheet contains the primary data extracted from the included studies. It includes:
 
-- `ID`: Unique identifier of the study  
+- `ID`: Identifier of the study  
 - `Area`: Application domain  
 - `Subarea`: Specific subdomain  
 - `Reference`: Bibliographic reference  
