@@ -44,7 +44,7 @@ This sheet contains the coding of limitations reported in the literature. It inc
 - `ID limitation`: Unique identifier of each limitation  
 - `Summary limitation`: Description of the limitation  
 - `Category(1)–Category(5)`: Assigned categories (primary and secondary)  
-- `Curated Concept`: Normalized concept representing the limitation  
+- `Unified Concept`: Normalized concept representing the limitation  
 
 ---
 
