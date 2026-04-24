@@ -77,6 +77,7 @@ This dataset is provided to:
 ## Citation
 This dataset is licensed under [CC BY 4.0](https://creativecommons.org).
 This dataset is associated with an article currently under review:
+
 Avalos Montiel, C. S., Rodríguez García, J. G., & Mendoza, S.  
 *Understanding Virtual Assistants: A Systematic Review* (under review)
 If you use this data, please cite.
