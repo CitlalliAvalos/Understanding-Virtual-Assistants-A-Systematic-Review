@@ -77,7 +77,7 @@ This sheet contains a summary of the reviewed studies, including:
 ---
 ## Supplementary Image files
 
-This folder contains supplementary image files generated from the normalized concepts extracted during the qualitative coding process. These images complement the Section 4.2.1 *Lexical and frequency analysis by dominant concepts* by providing an alternative representation of the concept distribution, where the size of each term is proportional to its frequency across the reviewed studies.
+This repository contains supplementary image files generated from the normalized concepts extracted during the qualitative coding process. These images complement the Section 4.2.1 *Lexical and frequency analysis by dominant concepts* by providing an alternative representation of the concept distribution, where the size of each term is proportional to its frequency across the reviewed studies.
 - `Limitations Word Cloud (limitations.png)`: Image showing the most recurrent limitation-related concepts identified in the reviewed studies.
 - `Challenges Word Cloud (challenges.png)`: Image showing the most recurrent challenge-related concepts identified in the reviewed studies.
 
