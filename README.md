@@ -64,6 +64,22 @@ This sheet also includes the inclusion and exclusion criteria for assigning stud
 **Transitional AI-based**, and **LLM-influenced**
 
 ---
+### 5. Objective and Scope
+
+This sheet contains a summary of the reviewed studies, including:
+
+- `Article ID`: Identifier of the study  
+- `Area`: Application domain   
+- `Approach`: Technological stage classification
+- `Objective`: Description of the main purpose of the study   
+- `Scope`: Contextual and methodological boundaries of the study, including corpus size, time span, data sources, study type, or domain focus, when explicitly reported by the authors  
+
+---
+## Supplementary Image files
+
+This folder contains supplementary image files generated from the normalized concepts extracted during the qualitative coding process. These images complement the Section 4.2.1 *Lexical and frequency analysis by dominant concepts* by providing an alternative representation of the concept distribution, where the size of each term is proportional to its frequency across the reviewed studies.
+- `Limitations Word Cloud (limitations.png)`: Image showing the most recurrent limitation-related concepts identified in the reviewed studies.
+- `Challenges Word Cloud (challenges.png)`: Image showing the most recurrent challenge-related concepts identified in the reviewed studies.
 
 ## Purpose and Use
 
